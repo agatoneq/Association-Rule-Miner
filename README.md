@@ -54,7 +54,6 @@ You can run the app using **[ShinyLive](https://shinylive.io/py/)**:
 
 - Rule graph visualization
 - Advanced metrics (e.g., conviction, leverage)
-- Rule filtering by item type
 - Export rules as CSV
 
 ## 📜 License
